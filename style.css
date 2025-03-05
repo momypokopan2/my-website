@@ -15,7 +15,11 @@ body{
     padding: 0;
 }
 
-h1{
+.header-title{
+    color: #FFFFFF;
+}
+
+.body-title{
     font-family: 'Poppins', sans-serif;
     font-size: 36px;
     color:#ff9900;
