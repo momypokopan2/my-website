@@ -62,7 +62,8 @@ table{
     border-collapse: collapse;
     border-radius: 10px;
     table-layout: fixed;
-    overflow: hidden;
+    overflow-x: auto;
+    display: block;
     background: white;
     box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);
 }
