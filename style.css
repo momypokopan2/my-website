@@ -2,7 +2,7 @@ header{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #1c1c1c;
+    background-color: #0056A2;
     color: white;
     padding: 20px;
     text-align: center;
@@ -14,9 +14,11 @@ body{
     margin: 0;
     padding: 0;
 }
+
 h1{
     font-family: 'Poppins', sans-serif;
     color:#0056A2
+}
 
 h2{
     font-family: 'Poppins', sans-serif;
