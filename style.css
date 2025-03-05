@@ -72,7 +72,6 @@ body{
 
 table{
     width: 100%;
-    margin: auto;
     border-collapse: collapse;
     border-radius: 10px;
     table-layout: fixed;
@@ -89,12 +88,15 @@ th, td{
 
 td{
     text-align: left;
+    padding: 10px;
+    width: 200px;
 }
 
 th{
     background-color: #FFD700;
     color: #333;
     text-align: center;
+    padding: 10px;
 }
 
 tr{
