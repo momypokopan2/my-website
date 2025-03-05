@@ -42,7 +42,7 @@ nav a{
 }
 
 nav a:hover{
-    background-color: #ff6600
+    background-color: #ff6600;
 }
 
 .main-visual{
@@ -99,7 +99,7 @@ th{
 }
 
 tr{
-    color: #000000
+    color: #000000;
 }
 
 button{
