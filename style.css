@@ -16,7 +16,7 @@ body{
 }
 
 .header-title{
-    color: #FFFFFF;
+    color: white;
 }
 
 .body-title{
@@ -98,7 +98,7 @@ td{
 
 th{
     background-color: #FFD700;
-    color: #333;
+    color: #FFFFFF;
     text-align: center;
     padding: 10px;
 }
